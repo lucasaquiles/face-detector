@@ -8,7 +8,9 @@ pip install --upgrade imutils
 
 pip install dlib
 
-rodar com python arquivo.py
+run with python detect-countours.py
+run with python classifyer.py
+
 
 
 
