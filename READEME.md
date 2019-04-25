@@ -1,6 +1,5 @@
 Instalar as dependências
 
-
 pip install numpy
 pip install scipy
 pip install dlib
